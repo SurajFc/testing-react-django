@@ -1,0 +1,15 @@
+# enviroment file
+env
+.env
+
+# migrations
+migrations/
+
+# __pycache__
+__pycache__/
+
+# static
+static/
+
+# db.sqlite3
+db.sqlite3
